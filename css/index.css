@@ -6,10 +6,9 @@
 }
 
 @font-face {
-  font-family: 'Lato';
+  font-family: 'Roboto', sans-serif;
   font-style: normal;
   font-weight: 900;
-  src: local('Lato #22c3aa'), local('Lato-#22c3aa'), url('../../blog/font/lato900.woff') format('woff');
 }
 
 html, body {
@@ -92,7 +91,7 @@ p {
 
 
 
-.discription {
+.description {
     height: 150px;
 }
 

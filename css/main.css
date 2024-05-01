@@ -41,18 +41,18 @@ ul {
   font-size: 1.1em;
 }
 a {
-  color: #478c5c;
+  color: #2e317c;
   text-decoration: none;
   transition: 0.5s;
 }
 a:hover {
-  color: #bacc81;
+  color: #a7a8b0;
 }
 a.highlight {
-  color: #bacc81;
+  color: #a7a8b0;
 }
 a.highlight:hover {
-  color: #478c5c;
+  color: #2e317c;
 }
 #lang-panel {
   position: absolute;
@@ -68,15 +68,15 @@ a.highlight:hover {
   padding: 2px 8px;
 }
 #lang-panel .lang.selected {
-  background-color: #cdd193;
-  color: #478c5c;
+  background-color: #525286;
+  color: #2e317c;
   cursor: default;
 }
 p {
-  color: #cdd193;
+  color: #525286;
 }
 h1 {
-  text-shadow: 1px 2px #013a20, 2px 4px #cdd193;
+  text-shadow: 1px 2px #131124, 2px 4px #525286;
   text-align: center;
 }
 h1 + h2,
@@ -92,25 +92,25 @@ h3 em,
 h4 em,
 h5 em,
 h6 em {
-  color: #478c5c;
+  color: #2e317c;
   font-style: normal;
 }
 ul {
-  color: #cdd193;
+  color: #525286;
 }
 #title {
   margin: 0.25em 0 0 0;
 }
 #subtitle {
   margin: 1em 0 0.25em 0;
-  color: #cdd193;
+  color: #525286;
 }
 .tag-panel {
   margin: 15px auto;
 }
 .tag {
-  background-color: #07481b;
-  color: #cdd193;
+  background-color: #22202e;
+  color: #525286;
   border-radius: 3px;
   display: inline-block;
   padding: 2px 8px;
@@ -132,8 +132,8 @@ ul {
   box-sizing: border-box;
 }
 .section {
-  background-color: #013a20;
-  color: #eef3f0;
+  background-color: #131124;
+  color: #ccccd6;
   padding: 50px;
   transition: 0.5s;
 }
@@ -141,7 +141,7 @@ ul {
   display: none;
 }
 .section.leaving {
-  background-color: #bacc81;
+  background-color: #a7a8b0;
 }
 .center {
   text-align: center;
@@ -152,7 +152,7 @@ ul {
 #avatar {
   width: 200px;
   height: 200px;
-  border: 10px solid #cdd193;
+  border: 10px solid #525286;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   -o-border-radius: 50%;
@@ -163,7 +163,7 @@ ul {
   width: 100px;
   height: 100px;
   border-radius: 50%;
-  background-color: #478c5c;
+  background-color: #2e317c;
   padding: 18px;
 }
 .circle-img:hover {
@@ -271,7 +271,7 @@ ul {
 .social-share-element {
   width: 40px;
   height: 40px;
-  background-color: #478c5c;
+  background-color: #2e317c;
   background-image: url("../../blog/img/social.png");
   transition: 0.5s;
   display: inline-block;
@@ -280,7 +280,7 @@ ul {
   border-radius: 20px;
 }
 .social-share-element:hover {
-  background-color: #07481b;
+  background-color: #22202e;
   border-radius: 5px;
 }
 .social-share-element.social-twitter {

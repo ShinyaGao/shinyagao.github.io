@@ -76,7 +76,7 @@ p {
   color: #a7a8bd;
 }
 h1 {
-  text-shadow: 1px 2px #2e317c, 2px 4px #a7a8bd;
+  text-shadow: 1px 2px #322f3b, 2px 4px #a7a8bd;
   text-align: center;
 }
 h1 + h2,
@@ -132,7 +132,7 @@ ul {
   box-sizing: border-box;
 }
 .section {
-  background-color: #2e317c;
+  background-color: #322f3b;
   color: #e2e1e4;
   padding: 50px;
   transition: 0.5s;

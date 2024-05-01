@@ -41,7 +41,7 @@ ul {
   font-size: 1.1em;
 }
 a {
-  color: #158bb8;
+  color: #3b818c;
   text-decoration: none;
   transition: 0.5s;
 }
@@ -52,7 +52,7 @@ a.highlight {
   color: #63bbd0;
 }
 a.highlight:hover {
-  color: #158bb8;
+  color: #3b818c;
 }
 #lang-panel {
   position: absolute;
@@ -69,14 +69,14 @@ a.highlight:hover {
 }
 #lang-panel .lang.selected {
   background-color: #c7d2d4;
-  color: #158bb8;
+  color: #3b818c;
   cursor: default;
 }
 p {
   color: #c7d2d4;
 }
 h1 {
-  text-shadow: 1px 2px #1491a8, 2px 4px #c7d2d4;
+  text-shadow: 1px 2px #01b0c9, 2px 4px #c7d2d4;
   text-align: center;
 }
 h1 + h2,
@@ -92,7 +92,7 @@ h3 em,
 h4 em,
 h5 em,
 h6 em {
-  color: #158bb8;
+  color: #3b818c;
   font-style: normal;
 }
 ul {
@@ -132,7 +132,7 @@ ul {
   box-sizing: border-box;
 }
 .section {
-  background-color: #1491a8;
+  background-color: #01b0c9;
   color: #d8e3e7;
   padding: 50px;
   transition: 0.5s;
@@ -163,7 +163,7 @@ ul {
   width: 100px;
   height: 100px;
   border-radius: 50%;
-  background-color: #158bb8;
+  background-color: #3b818c;
   padding: 18px;
 }
 .circle-img:hover {
@@ -271,7 +271,7 @@ ul {
 .social-share-element {
   width: 40px;
   height: 40px;
-  background-color: #158bb8;
+  background-color: #3b818c;
   background-image: url("../../blog/img/social.png");
   transition: 0.5s;
   display: inline-block;

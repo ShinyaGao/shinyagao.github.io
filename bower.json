@@ -1,16 +1,15 @@
 {
-  "name": "Wenli Zhang's CV",
+  "name": "Xinya Gao's CV",
   "version": "1.0.0",
-  "homepage": "http://zhangwenli.com/cv",
+  "homepage": "http://shinyagao.github.io/cv",
   "authors": [
-    "Wenli Zhang"
+    "Xinya Gao"
   ],
-  "description": "Web Designer and Developer",
+  "description": "Software Developer/Technical Artist",
   "keywords": [
     "CV",
-    "Web Designer",
-    "Web Developer",
-    "Web Front-end"
+    "Software Developer",
+    "Technical Artist"
   ],
   "license": "CC BY 3.0",
   "ignore": [

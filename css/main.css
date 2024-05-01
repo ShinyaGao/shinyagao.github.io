@@ -41,7 +41,7 @@ ul {
   font-size: 1.1em;
 }
 a {
-  color: #d1c2d3;
+  color: #806d9e;
   text-decoration: none;
   transition: 0.5s;
 }
@@ -52,7 +52,7 @@ a.highlight {
   color: #a7a8b0;
 }
 a.highlight:hover {
-  color: #d1c2d3;
+  color: #806d9e;
 }
 #lang-panel {
   position: absolute;
@@ -69,7 +69,7 @@ a.highlight:hover {
 }
 #lang-panel .lang.selected {
   background-color: #8076a3;
-  color: #d1c2d3;
+  color: #806d9e;
   cursor: default;
 }
 p {
@@ -92,7 +92,7 @@ h3 em,
 h4 em,
 h5 em,
 h6 em {
-  color: #d1c2d3;
+  color: #806d9e;
   font-style: normal;
 }
 ul {
@@ -163,7 +163,7 @@ ul {
   width: 100px;
   height: 100px;
   border-radius: 50%;
-  background-color: #d1c2d3;
+  background-color: #806d9e;
   padding: 18px;
 }
 .circle-img:hover {
@@ -271,7 +271,7 @@ ul {
 .social-share-element {
   width: 40px;
   height: 40px;
-  background-color: #d1c2d3;
+  background-color: #806d9e;
   background-image: url("../../blog/img/social.png");
   transition: 0.5s;
   display: inline-block;

@@ -41,7 +41,7 @@ ul {
   font-size: 1.1em;
 }
 a {
-  color: #302f4b;
+  color: #74759b;
   text-decoration: none;
   transition: 0.5s;
 }
@@ -52,7 +52,7 @@ a.highlight {
   color: #fed71a;
 }
 a.highlight:hover {
-  color: #302f4b;
+  color: #74759b;
 }
 #lang-panel {
   position: absolute;
@@ -68,15 +68,15 @@ a.highlight:hover {
   padding: 2px 8px;
 }
 #lang-panel .lang.selected {
-  background-color: #a7a8bd;
-  color: #302f4b;
+  background-color: #525288;
+  color: #74759b;
   cursor: default;
 }
 p {
-  color: #a7a8bd;
+  color: #525288;
 }
 h1 {
-  text-shadow: 1px 2px #322f3b, 2px 4px #a7a8bd;
+  text-shadow: 1px 2px #131124, 2px 4px #525288;
   text-align: center;
 }
 h1 + h2,
@@ -92,25 +92,25 @@ h3 em,
 h4 em,
 h5 em,
 h6 em {
-  color: #302f4b;
+  color: #74759b;
   font-style: normal;
 }
 ul {
-  color: #a7a8bd;
+  color: #525288;
 }
 #title {
   margin: 0.25em 0 0 0;
 }
 #subtitle {
   margin: 1em 0 0.25em 0;
-  color: #a7a8bd;
+  color: #525288;
 }
 .tag-panel {
   margin: 15px auto;
 }
 .tag {
-  background-color: #1f2040;
-  color: #a7a8bd;
+  background-color: #22202e;
+  color: #525288;
   border-radius: 3px;
   display: inline-block;
   padding: 2px 8px;
@@ -132,7 +132,7 @@ ul {
   box-sizing: border-box;
 }
 .section {
-  background-color: #322f3b;
+  background-color: #131124;
   color: #e2e1e4;
   padding: 50px;
   transition: 0.5s;
@@ -152,7 +152,7 @@ ul {
 #avatar {
   width: 200px;
   height: 200px;
-  border: 10px solid #a7a8bd;
+  border: 10px solid #525288;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   -o-border-radius: 50%;
@@ -163,7 +163,7 @@ ul {
   width: 100px;
   height: 100px;
   border-radius: 50%;
-  background-color: #302f4b;
+  background-color: #74759b;
   padding: 18px;
 }
 .circle-img:hover {
@@ -271,7 +271,7 @@ ul {
 .social-share-element {
   width: 40px;
   height: 40px;
-  background-color: #302f4b;
+  background-color: #74759b;
   background-image: url("../../blog/img/social.png");
   transition: 0.5s;
   display: inline-block;
@@ -280,7 +280,7 @@ ul {
   border-radius: 20px;
 }
 .social-share-element:hover {
-  background-color: #1f2040;
+  background-color: #22202e;
   border-radius: 5px;
 }
 .social-share-element.social-twitter {

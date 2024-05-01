@@ -68,15 +68,15 @@ a.highlight:hover {
   padding: 2px 8px;
 }
 #lang-panel .lang.selected {
-  background-color: #d1c2d3;
+  background-color: #c8adc4;
   color: #813c85;
   cursor: default;
 }
 p {
-  color: #d1c2d3;
+  color: #c8adc4;
 }
 h1 {
-  text-shadow: 1px 2px #131124, 2px 4px #d1c2d3;
+  text-shadow: 1px 2px #131124, 2px 4px #c8adc4;
   text-align: center;
 }
 h1 + h2,
@@ -96,21 +96,21 @@ h6 em {
   font-style: normal;
 }
 ul {
-  color: #d1c2d3;
+  color: #c8adc4;
 }
 #title {
   margin: 0.25em 0 0 0;
 }
 #subtitle {
   margin: 1em 0 0.25em 0;
-  color: #d1c2d3;
+  color: #c8adc4;
 }
 .tag-panel {
   margin: 15px auto;
 }
 .tag {
   background-color: #525288;
-  color: #d1c2d3;
+  color: #c8adc4;
   border-radius: 3px;
   display: inline-block;
   padding: 2px 8px;
@@ -152,7 +152,7 @@ ul {
 #avatar {
   width: 200px;
   height: 200px;
-  border: 10px solid #d1c2d3;
+  border: 10px solid #c8adc4;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   -o-border-radius: 50%;

@@ -46,10 +46,10 @@ a {
   transition: 0.5s;
 }
 a:hover {
-  color: #fed71a;
+  color: #d2d97a;
 }
 a.highlight {
-  color: #fed71a;
+  color: #d2d97a;
 }
 a.highlight:hover {
   color: #813c85;
@@ -68,15 +68,15 @@ a.highlight:hover {
   padding: 2px 8px;
 }
 #lang-panel .lang.selected {
-  background-color: #74759b;
+  background-color: #d1c2d3;
   color: #813c85;
   cursor: default;
 }
 p {
-  color: #74759b;
+  color: #d1c2d3;
 }
 h1 {
-  text-shadow: 1px 2px #131124, 2px 4px #74759b;
+  text-shadow: 1px 2px #131124, 2px 4px #d1c2d3;
   text-align: center;
 }
 h1 + h2,
@@ -96,21 +96,21 @@ h6 em {
   font-style: normal;
 }
 ul {
-  color: #74759b;
+  color: #d1c2d3;
 }
 #title {
   margin: 0.25em 0 0 0;
 }
 #subtitle {
   margin: 1em 0 0.25em 0;
-  color: #74759b;
+  color: #d1c2d3;
 }
 .tag-panel {
   margin: 15px auto;
 }
 .tag {
   background-color: #525288;
-  color: #74759b;
+  color: #d1c2d3;
   border-radius: 3px;
   display: inline-block;
   padding: 2px 8px;
@@ -141,7 +141,7 @@ ul {
   display: none;
 }
 .section.leaving {
-  background-color: #fed71a;
+  background-color: #d2d97a;
 }
 .center {
   text-align: center;
@@ -152,7 +152,7 @@ ul {
 #avatar {
   width: 200px;
   height: 200px;
-  border: 10px solid #74759b;
+  border: 10px solid #d1c2d3;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   -o-border-radius: 50%;

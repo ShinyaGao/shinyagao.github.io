@@ -60,7 +60,7 @@ a.highlight:hover {
   top: 20px;
   border-radius: 5px;
   z-index: 100;
-  font-size: 0.8em;
+  font-size: 1em;
 }
 #lang-panel .lang {
   display: inline-block;
